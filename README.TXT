@@ -5,3 +5,7 @@ learning:
 videos watched: 
 - datetime module in Python;
 - virtual environments with pipenv.
+
+2019-05-05:
+learning:
+- dictionaries in Python: creating dictionaries.
